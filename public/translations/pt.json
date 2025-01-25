@@ -1,0 +1,11 @@
+
+{
+  "index": {
+    "nav": {
+      "about": "sobre",
+      "services": "serviços",
+      "portfolio": "portfólio",
+      "contact": "contato"
+    }
+  }
+}
