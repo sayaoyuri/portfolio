@@ -4,6 +4,8 @@ import { getMessages, setRequestLocale } from 'next-intl/server';
 import { NextIntlClientProvider } from "next-intl";
 import { firaCodeFont } from "@/constants";
 
+type Params = Promise<{ locale: string }>;
+
 export const metadata: Metadata = {
   title: "sayaoyuri portfolio",
   description: "sayaoyuri portfolio",
@@ -14,7 +16,7 @@ export default async function RootLayout({
   params
 }: Readonly<{
   children: React.ReactNode;
-  params: { locale: string }
+  params: Params
 }>) {
   const { locale } = await params;
 
