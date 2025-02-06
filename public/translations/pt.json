@@ -6,6 +6,10 @@
       "services": "serviços",
       "portfolio": "portfólio",
       "contact": "contato"
+    },
+    "about": {
+      "title": "sobre",
+      "paragraph": "Me chamo Yuri, tenho 24 anos e sou um Engenheiro de Software. Atualmente meu foco se encontra no desenvolvimento Web. Por aqui você encontrará algumas informações sobre mim, projetos freelance e pessoais e como me contatar. Como Engenheiro de Software, crio soluções utilizando tecnologias! Algumas das frentes com que trabalho: desenvolvimento de Websites, páginas instituicionais, promocionais, SPA, dentre outros."
     }
   }
 }
