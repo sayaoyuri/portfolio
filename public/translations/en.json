@@ -5,6 +5,10 @@
       "services": "services",
       "portfolio": "portfolio",
       "contact": "contact"
+    },
+    "about": {
+      "title": "about",
+      "paragraph": "My name is Yuri, i'm 24 years old and i am a Software Engineer. Currently my focus is on Web development. Here you will find some information about me, freelance and personal projects and how to contact me. As a Software Engineer, i create solutions using technologies! Some of the areas I work on: website development, institutional and promotional pages, SPA, among others."
     }
   }
 }
