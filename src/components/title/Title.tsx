@@ -3,8 +3,8 @@ import { disketMonoFont } from "@/constants";
 
 export default function Title() {
   return (
-    <section className="w-full h-[calc(100dvh-150px)] relative">
-      <div className="z-10 w-full h-full flex flex-col items-center justify-center gap-10 md:flex-row-reverse lg:gap-28">
+    <section className="w-full h-[calc(100dvh-150px)] relative md:bg-[url(/images/light-point-title-left.svg)] bg-left-bottom lg:bg-left bg-no-repeat">
+      <div className="z-10 w-full h-full flex flex-col items-center justify-center gap-10 md:flex-row-reverse lg:gap-28 md:bg-[url(/images/light-point-title-right.svg)] bg-no-repeat bg-right-bottom max-lg:bg-[auto_25%]">
         <Image 
           className="w-3/4 md:w-2/5"
           src='/images/yuri.svg'
