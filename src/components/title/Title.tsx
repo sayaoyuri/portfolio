@@ -12,7 +12,7 @@ export default function Title() {
           height={0}
           alt='sayaoyuri'
         />
-        <div className="flex flex-col items-center md:flex-col-reverse md:items-end">
+        <div className="flex flex-col items-center md:flex-col-reverse md:items-end z-50">
           <Image
             className="w-3/4 md:w-3/4"
             src='/images/title.svg'
