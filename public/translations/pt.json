@@ -10,6 +10,35 @@
     "about": {
       "title": "sobre",
       "paragraph": "Me chamo Yuri, tenho 24 anos e sou um Engenheiro de Software. Atualmente meu foco se encontra no desenvolvimento Web. Por aqui você encontrará algumas informações sobre mim, projetos freelance e pessoais e como me contatar. Como Engenheiro de Software, crio soluções utilizando tecnologias! Algumas das frentes com que trabalho: desenvolvimento de Websites, páginas instituicionais, promocionais, SPA, dentre outros."
+    },
+    "skills": [
+      {
+        "stack": "Línguagens",
+        "technologies": ["PHP", "SQL", "Javascript", "Typescript"]
+      },
+      {
+        "stack": "Backend",
+        "technologies": ["PHP", "Node.js", "Express.js", "SOAP", "Rest/Restful"]
+      },
+      {
+        "stack": "Frontend",
+        "technologies": ["HTML", "CSS/SASS", "React.js/Next.js", "Angular", "JQuery", "TailwindCSS", "Bootstrap", "Styled Components"]
+      },
+      {
+        "stack": "Banco de Dados",
+        "technologies": ["Redis", "MySql", "ORACLE", "PostgreSQL", "Prisma/Sequelize"]
+      },
+      {
+        "stack": "Ágil",
+        "technologies": ["Scrum", "Kanban", "Docker", "CI/CD", "Github/Gitlab", "Jira/Azure/Trello"]
+      },
+      {
+        "stack": "Testes Automatizados",
+        "technologies": ["Jest.js", "PHPUnit", "Unit Test", "Integration Test"]
+      }
+    ],
+    "footer": {
+      "paragraph": "2025 © - Yuri Sayão todos os direitos reservados."
     }
   }
 }
