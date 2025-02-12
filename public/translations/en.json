@@ -9,6 +9,35 @@
     "about": {
       "title": "about",
       "paragraph": "My name is Yuri, i'm 24 years old and i am a Software Engineer. Currently my focus is on Web development. Here you will find some information about me, freelance and personal projects and how to contact me. As a Software Engineer, i create solutions using technologies! Some of the areas I work on: website development, institutional and promotional pages, SPA, among others."
+    },
+    "skills": [
+      {
+        "stack": "Languages",
+        "technologies": ["PHP", "SQL", "Javascript", "Typescript"]
+      },
+      {
+        "stack": "Backend",
+        "technologies": ["PHP", "Node.js", "Express.js", "SOAP", "Rest/Restful"]
+      },
+      {
+        "stack": "Frontend",
+        "technologies": ["HTML", "CSS/SASS", "React.js/Next.js", "Angular", "JQuery", "TailwindCSS", "Bootstrap", "Styled Components"]
+      },
+      {
+        "stack": "Databases",
+        "technologies": ["Redis", "MySql", "ORACLE", "PostgreSQL", "Prisma/Sequelize"]
+      },
+      {
+        "stack": "Agile",
+        "technologies": ["Scrum", "Kanban", "Docker", "CI/CD", "Github/Gitlab", "Jira/Azure/Trello"]
+      },
+      {
+        "stack": "Automated Tests",
+        "technologies": ["Jest.js", "PHPUnit", "Unit Test", "Integration Test"]
+      }
+    ],
+    "footer": {
+      "paragraph": "Copyright © 2025 SAYAOYURI. All rights reserved."
     }
   }
 }
