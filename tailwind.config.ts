@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      boxShadow: {
+        "skill": "4px 4px 6px 0px #00000040"
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
